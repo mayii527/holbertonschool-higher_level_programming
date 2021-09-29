@@ -9,7 +9,7 @@ class Square:
         """Args:
         size: the size of the square
         """
-        if size is not int:
+        if size is not isinstance (int):
             raise TypeError("size must be an integer")
         if size < 0:
             raise ValueError("size must be >= 0")
