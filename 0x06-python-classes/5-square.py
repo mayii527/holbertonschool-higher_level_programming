@@ -31,9 +31,9 @@ class Square:
     def my_print(self):
         """print the square with a #"""
         if self.__size > 0:
-           for row in range(self.__size):
-               for col in range(self.__size):
-                   print("#", end="")
-               print()
+            for row in range(self.__size):
+                for col in range(self.__size):
+                    print("#", end="")
+                print()
         else:
             print()
