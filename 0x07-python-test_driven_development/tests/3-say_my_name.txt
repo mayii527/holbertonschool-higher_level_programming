@@ -29,3 +29,9 @@ SyntaxError: invalid character in identifier
 Traceback (most recent call last):
 ...
 SyntaxError: invalid character in identifier
+
+6)
+>>> say_my_name("Mayi", "Cadavid")
+Traceback (most recent call last):
+...
+NameError: name 'say_my_name' is not defined
