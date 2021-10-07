@@ -1,0 +1,31 @@
+say_my_name = __import__('3-say_my_name').say_my_name
+
+1)
+>>> say_my_name(98, 74)
+Traceback (most recent call last):
+...
+NameError: name 'say_my_name' is not defined
+
+2)
+>>> say_my_name(“Bob” / “Lenon”)
+Traceback (most recent call last):
+...
+SyntaxError: invalid character in identifier
+
+3)
+>>> say_my_name(“Bob”)
+Traceback (most recent call last):
+...
+SyntaxError: invalid character in identifier
+
+4)
+>>> say_my_name(“Bob” / 12)
+Traceback (most recent call last):
+...
+SyntaxError: invalid character in identifier
+
+5)
+>>> say_my_name(12 / “Lenon”)
+Traceback (most recent call last):
+...
+SyntaxError: invalid character in identifier
