@@ -4,6 +4,8 @@ a function that adds 2 integers.
 a and b must be integers or floats.
 Returns an integer.
 """
+
+
 def add_integer(a, b=98):
     """add of two integers"""
     if(type(a) != int and type(a) != float):

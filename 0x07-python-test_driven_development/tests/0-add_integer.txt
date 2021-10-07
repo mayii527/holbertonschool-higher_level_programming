@@ -20,7 +20,7 @@ Traceback (most recent call last):
 SyntaxError: invalid syntax
 
 >>> add_integer(100.3, -2)
-98.3
+98
 
 >>> add_integer(4, "School")
 Traceback (most recent call last):
@@ -32,3 +32,5 @@ Traceback (most recent call last):
 ...
 TypeError: a must be an integer
 
+>>> add_integer(1.4 + 2)
+101
