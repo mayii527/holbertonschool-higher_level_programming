@@ -46,12 +46,13 @@ class Rectangle:
             return(self.__width * 2 + self.__height * 2)
 
     def __str__(self):
+        shape = ""
         if self.__width == 0 or self.__height == 0:
-            for row in range(self.__width):
-                for col in range(self.__height):
-                    print("#", end="")
             print()
         else:
-            print()
-
-"""code not finish"""
+            for col in range(self.__height):
+                for row in range(self.__width):
+                    shape += "#"
+                if col != (self.__height - 1):
+                    shape += "\n"
+            return shape
