@@ -1,0 +1,40 @@
+>>> text_indentation = __import__('5-text_indentation').text_indentation
+
+>>> text = "I love travel. I can choose different kinds of vehicles: car, airplane, metro, train, motorcycle. Which one do you prefer? I prefer train!"
+
+>>> text_indentation(text)
+I love travel.
+<BLANKLINE>
+I can choose different kinds of vehicles:
+<BLANKLINE>
+car, airplane, metro, train, motorcycle.
+<BLANKLINE>
+Which one do you prefer?
+<BLANKLINE>
+I prefer train!
+
+>>> text_indentation(34)
+Traceback (most recent call last):
+...
+TypeError: text must be a string
+
+>>> text_indentation("    hello    baby    ")
+hello    baby
+
+>>> text_indentation("")
+
+>>> text_indentation()
+Traceback (most recent call last):
+...
+TypeError: text_indentation() missing 1 required positional argument: 'text'
+
+>>> text_indentation("hello" "baby")
+hellobaby
+
+>>> text_indentation("hello", "baby")
+Traceback (most recent call last):
+...
+TypeError: text_indentation() takes 1 positional argument but 2 were given
+
+>>> text_indentation("hello" + "baby")
+hellobaby
