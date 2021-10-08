@@ -1,10 +1,10 @@
-say_my_name = __import__('3-say_my_name').say_my_name
+>>> say_my_name = __import__('3-say_my_name').say_my_name
 
 1)
 >>> say_my_name(98, 74)
 Traceback (most recent call last):
 ...
-NameError: name 'say_my_name' is not defined
+TypeError: first_name must be a string
 
 2)
 >>> say_my_name(“Bob” / “Lenon”)
@@ -13,25 +13,31 @@ Traceback (most recent call last):
 SyntaxError: invalid character in identifier
 
 3)
->>> say_my_name(“Bob”)
-Traceback (most recent call last):
-...
-SyntaxError: invalid character in identifier
+>>> say_my_name("Bob")
+My name is Bob 
 
 4)
->>> say_my_name(“Bob” / 12)
+>>> say_my_name(12, "White")
 Traceback (most recent call last):
 ...
-SyntaxError: invalid character in identifier
+TypeError: first_name must be a string
 
 5)
->>> say_my_name(12 / “Lenon”)
-Traceback (most recent call last):
-...
-SyntaxError: invalid character in identifier
+>>> say_my_name("Mayii", "Cadavid")
+My name is Mayii Cadavid
 
 6)
->>> say_my_name("John", "Smith")
+>>> say_my_name("Eylen", 25)
 Traceback (most recent call last):
 ...
-NameError: name 'say_my_name' is not defined
+TypeError: last_name must be a string
+
+7)
+>>> say_my_name()
+Traceback (most recent call last):
+...
+TypeError: say_my_name() missing 1 required positional argument: 'first_name'
+
+8)
+>>> say_my_name("", "")
+My name is  
