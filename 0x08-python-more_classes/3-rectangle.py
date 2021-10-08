@@ -45,11 +45,13 @@ class Rectangle:
         else:
             return(self.__width * 2 + self.__height * 2)
 
-    def print(self):
+    def __str__(self):
         if self.__width == 0 or self.__height == 0:
             for row in range(self.__width):
                 for col in range(self.__height):
                     print("#", end="")
-                print()
+            print()
         else:
             print()
+
+"""code not finish"""
