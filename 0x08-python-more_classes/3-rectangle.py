@@ -48,7 +48,7 @@ class Rectangle:
     def __str__(self):
         shape = ""
         if self.__width == 0 or self.__height == 0:
-            print()
+            return ""
         else:
             for col in range(self.__height):
                 for row in range(self.__width):
