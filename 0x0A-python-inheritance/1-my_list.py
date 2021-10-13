@@ -1,4 +1,4 @@
-#!/usr/bin/puthon3
+#!/usr/bin/python3
 """
 created a claas named MyList
 that inherits from list
