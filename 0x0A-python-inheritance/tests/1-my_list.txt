@@ -1,0 +1,25 @@
+>>> MyList = __import__('1-my_list').MyList
+
+>>> mylist = MyList()
+    >>> mylist.print_sorted()
+    []
+
+>>> mylist = MyList([-1, -8, -5, -3])
+    >>> mylist.print_sorted()
+    [-8, -5, -3, -1]
+
+>>> mylist = MyList([0])
+    >>> mylist.print_sorted()
+    [0]
+
+>>> def __str__(self):
+    ...    return str(self.test)
+
+>>> mylist = MyList([1, 4, 2, 3, 5])
+    >>> mylist.print_sorted()
+    [1, 2, 3, 4, 5]
+
+ >>> mylist = MyList([])
+    >>> mylist.print_sorted()
+    []
+
