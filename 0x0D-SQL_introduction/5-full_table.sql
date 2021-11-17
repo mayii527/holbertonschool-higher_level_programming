@@ -1,3 +1,3 @@
---  that prints the full description of the table first_table from the database hbtn_0c_0 in your MySQL serve.
+-- that prints the full description of the table first_table from the database hbtn_0c_0 in your MySQL serve.
 
-SHOW FULL first_table;
+DESC first_table;
