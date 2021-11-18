@@ -1,7 +1,7 @@
 # Python
-<img width="100%" height = "300px" src="https://kinsta.com/wp-content/uploads/2021/07/python-1.png" alt="cover" />
+<img width="50%" height = "300px" src="https://cosasdedevs.com/media/sections/images/python.png" /><img width="35%" height = "300px" src="https://ventiv.solutions/wp-content/uploads/2021/02/mySQL-logo.png" />
 
-## In this repository you will find projects based on the python programming language.
+## In this repository you will find projects based on the python programming language and MySQL, which is a relational database management system.
 
 - [0x00-python-hello_world](https://github.com/mayii527/holbertonschool-higher_level_programming/tree/master/0x00-python-hello_world)
     - 0-run
