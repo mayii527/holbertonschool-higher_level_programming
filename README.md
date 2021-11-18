@@ -40,3 +40,44 @@
     - 5-variable_load.py
     - 103-fast_alphabet.py
 ---
+- [0x03-python-data_structures](https://github.com/mayii527/holbertonschool-higher_level_programming/tree/master/0x03-python-data_structures)
+    - 0-print_list_integer.py
+    - 1-element_at.py
+    - 2-replace_in_list.py
+    - 3-print_reversed_list_integer.py
+    - 4-new_in_list.py
+    - 5-no_c.py
+    - 6-print_matrix_integer.py
+    - 7-add_tuple.py
+    - 8-multiple_returns.py
+    - 9-max_integer.py
+    - 10-divisible_by_2.py
+    - 11-delete_at.py
+    - 12-switch.py
+    - 13-is_palindrome.c
+---
+- [0x04-python-more_data_structures](https://github.com/mayii527/holbertonschool-higher_level_programming/tree/master/0x04-python-more_data_structures)
+    - 0-square_matrix_simple.py
+    - 1-search_replace.py
+    - 2-uniq_add.py
+    - 3-common_elements.py
+    - 4-only_diff_elements.py
+    - 5-number_keys.py
+    - 6-print_sorted_dictionary.py
+    - 7-update_dictionary.py
+    - 8-simple_delete.py
+    - 9-multiply_by_2.py
+    - 10-best_score.py
+    - 11-multiply_list_map.py
+    - 12-roman_to_int.py
+---
+- [0x05-python-exceptions](https://github.com/mayii527/holbertonschool-higher_level_programming/tree/master/0x05-python-exceptions)
+    - 0-safe_print_list.py
+    - 1-safe_print_integer.py
+    - 2-safe_print_list_integers.py
+    - 3-safe_print_division.py
+    - 4-list_division.py
+    - 5-raise_exception.py
+    - 6-raise_exception_msg.py
+---
+- 
