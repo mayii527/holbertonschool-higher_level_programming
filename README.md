@@ -109,7 +109,104 @@
     - 3-rectangle.py
     - 4-rectangle.py
 ---
--[0x09-python-everything_is_object](https://github.com/mayii527/holbertonschool-higher_level_programming/tree/master/0x09-python-everything_is_object)
+- [0x09-python-everything_is_object](https://github.com/mayii527/holbertonschool-higher_level_programming/tree/master/0x09-python-everything_is_object)
     - 0-answer.txt
     - 1-answer.txt
-     
+    - 2-answer.txt
+    - 3-answer.txt
+    - 4-answer.txt
+    - 5-answer.txt
+    - 6-answer.txt
+    - 7-answer.txt
+    - 8-answer.txt
+    - 9-answer.txt
+    - 10-answer.txt
+    - 11-answer.txt
+    - 12-answer.txt
+    - 13-answer.txt
+    - 14-answer.txt
+    - 15-answer.txt
+    - 16-answer.txt
+    - 17-answer.txt
+    - 18-answer.txt
+    - 19-copy_list.py
+    - 20-answer.txt
+    - 21-answer.txt
+    - 22-answer.txt
+    - 23-answer.txt
+    - 24-answer.txt
+    - 25-answer.txt
+    - 26-answer.txt
+    - 27-answer.txt
+    - 28-answer.txt
+---
+- [0x0A-python-inheritance](https://github.com/mayii527/holbertonschool-higher_level_programming/tree/master/0x0A-python-inheritance)
+    - [test](https://github.com/mayii527/holbertonschool-higher_level_programming/tree/master/0x0A-python-inheritance/tests)
+        - 1-my_list.txt
+        - 7-base_geometry.txt
+    - 0-lookup.py
+    - 1-my_list.py
+    - 2-is_same_class.py
+    - 3-is_kind_of_class.py
+    - 4-inherits_from.py
+    - 5-base_geometry.py
+    - 6-base_geometry.py
+    - 7-base_geometry.py
+    - 8-rectangle.py
+    - 9-rectangle.py
+    - 10-square.py
+    - 11-square.py
+---
+- [0x0B-python-input_output](https://github.com/mayii527/holbertonschool-higher_level_programming/tree/master/0x0B-python-input_output)
+    - 0-read_file.py
+    - 1-write_file.py
+    - 2-append_write.py
+    - 3-to_json_string.py
+    - 4-from_json_string.py
+    - 5-save_to_json_file.py
+    - 6-load_from_json_file.py
+    - 7-add_item.py
+    - 8-class_to_json.py
+    - 9-student.py
+    - 10-student.py
+    - 11-student.py
+    - 12-pascal_triangle.py
+---
+- [0x0D-SQL_introduction](https://github.com/mayii527/holbertonschool-higher_level_programming/tree/master/0x0D-SQL_introduction)
+    - 0-list_databases.sql
+    - 1-create_database_if_missing.sql
+    - 2-remove_database.sql
+    - 3-list_tables.sql
+    - 4-first_table.sql
+    - 5-full_table.sql
+    - 6-list_values.sql
+    - 7-insert_value.sql
+    - 8-count_89.sql
+    - 9-full_creation.sql
+    - 10-top_score.sql
+    - 11-best_score.sql
+    - 12-no_cheating.sql
+    - 13-change_class.sql
+    - 14-average.sql
+    - 15-groups.sql
+    - 16-no_link.sql
+---
+- [0x0E-SQL_more_queries](https://github.com/mayii527/holbertonschool-higher_level_programming/tree/master/0x0E-SQL_more_queries)
+    - 0-privileges.sql
+    - 1-create_user.sql
+    - 2-create_read_user.sql
+    - 3-force_name.sql
+    - 4-never_empty.sql
+    - 5-unique_id.sql
+    - 6-states.sql
+    - 7-cities.sql
+    - 8-cities_of_california_subquery.sql
+    - 9-cities_by_state_join.sql
+    - 10-genre_id_by_show.sql
+    - 11-genre_id_all_shows.sql
+    - 12-no_genre.sql
+    - 13-count_shows_by_genre.sql
+    - 14-my_genres.sql
+    - 15-comedy_only.sql
+    - 16-shows_by_genre.sql
+---
