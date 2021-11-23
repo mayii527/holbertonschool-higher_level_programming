@@ -1,5 +1,5 @@
 # Python, MySQL.
-<img width="50%" height = "300px" src="https://cosasdedevs.com/media/sections/images/python.png" /><img width="35%" height = "300px" src="https://ventiv.solutions/wp-content/uploads/2021/02/mySQL-logo.png" />
+<img width="50%" height = "275px" src="https://cosasdedevs.com/media/sections/images/python.png" /><img width="35%" height = "300px" src="https://ventiv.solutions/wp-content/uploads/2021/02/mySQL-logo.png" />
 
 ## In this repository you will find projects based on the python programming language and MySQL, which is a relational database management system.
 
