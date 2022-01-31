@@ -7,7 +7,6 @@ import urllib.request
 
 
 if __name__ == "__main__":
-    req = urllib.request.Request
-    with urllib.request.urlopen(https://intranet.hbtn.io/status) as res:
+    req = urllib.request.Request('https://intranet.hbtn.io/status')
+    with urllib.request.urlopen(req) as res:
         print(res)
-
